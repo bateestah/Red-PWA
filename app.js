@@ -1,7 +1,7 @@
 const app = document.getElementById('app');
 
 // Fetch posts from Reddit's r/all
-fetch('https://cors-anywhere.herokuapp.com/https://www.reddit.com/r/all.json')
+fetch('https://corsproxy.io/https://www.reddit.com/r/all.json')
   .then(response => response.json())
   .then(data => {
     const posts = data.data.children;
