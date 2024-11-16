@@ -2,7 +2,7 @@
   "name": "Redd PWA",
   "short_name": "Redd PWA",
   "description": "A Progressive Web App to view posts from Reddit's r/all.",
-  "start_url": "https://bateestah.github.io/Red-PWA/",
+  "start_url": "https://bateestah.github.io/Red-PWA/index.html",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#000000",
